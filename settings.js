@@ -67,8 +67,8 @@ global.botname = 'CHEEMS BOT' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
+global.reactmoji = "💖" //ur menu react emoji
+global.themeemoji = "🔴" //ur theme emoji
 global.packname = "CHEEMS BOT" //ur sticker watermark packname
 global.author = "KAVISHKA MIHIRANGA" //ur sticker watermark author
 
