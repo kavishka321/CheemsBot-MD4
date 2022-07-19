@@ -56,7 +56,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['94742062326'] //ur owner number
 global.ownername = "💢KAVISHKA MIHIRANGA" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.ytname = "KAVI" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -112,7 +112,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    wait: 'කටුණාකර රැදි සිටින්න😒',
     linkm: 'Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
